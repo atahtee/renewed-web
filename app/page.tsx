@@ -8,7 +8,7 @@ export default function HomeMono() {
           Renewed
         </h1>
         <p className="max-w-2xl mx-auto text-gray-600 text-sm sm:text-base leading-relaxed">
-          Stay on top of your subscriptions. Renewed helps you track, manage, and get notified before your bills auto-renew so you're never caught off guard.
+          Stay on top of your subscriptions. Renewed helps you track, manage, and get notified before your bills auto-renew so youre never caught off guard.
         </p>
       </section>
 
@@ -19,7 +19,7 @@ export default function HomeMono() {
               01. Track Subscriptions
             </h3>
             <p className="text-gray-700 text-xs sm:text-sm">
-              Add any app, service, or subscription you're paying for from Netflix to gym memberships.
+              Add any app, service, or subscription youre paying for from Netflix to gym memberships.
             </p>
           </div>
 
