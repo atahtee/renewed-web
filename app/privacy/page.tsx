@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
               01. Our Commitment to Privacy
             </h2>
             <p>
-              Renewed is designed to help you manage subscriptions with minimal data collection. We store your data locally on your device and only collect what’s necessary to provide reminders and improve the app.
+              Renewed is designed to help you manage subscriptions with minimal data collection. We store your data locally on your device and only collect what&apos;s necessary to provide reminders and improve the app.
             </p>
           </div>
 
@@ -31,7 +31,7 @@ export default function PrivacyPolicy() {
                 <li>Subscription details you enter (e.g., name, amount, renewal date), stored locally on your device.</li>
                 <li>Technical information (e.g., device type, app version, error logs) sent to Firebase Crashlytics to fix bugs and improve performance.</li>
               </ul>
-              We do not collect personal identifiers like your name, email, or payment details.
+              We don&apos;t collect personal identifiers like your name, email, or payment details.
             </p>
           </div>
 
@@ -46,7 +46,7 @@ export default function PrivacyPolicy() {
                 <li>Schedule local notifications to remind you of upcoming renewals.</li>
                 <li>Analyze crashes and errors via Firebase Crashlytics to improve the app.</li>
               </ul>
-              We do not use your data for advertising or any other purpose.
+              We don&apos;t use your data for advertising or any other purpose.
             </p>
           </div>
 
@@ -64,7 +64,7 @@ export default function PrivacyPolicy() {
               05. Security Practices
             </h2>
             <p>
-              Your subscription data is stored locally on your device using Isar, a secure local database. While we do not encrypt this data, it remains private to your device and is not transmitted elsewhere. Crashlytics data is sent securely to Google’s servers. We follow industry-standard practices to protect our app, but no system is completely secure.
+              Your subscription data is stored locally on your device using Isar, a secure local database. While we don&apos;t encrypt this data, it remains private to your device and isn&apos;t transmitted elsewhere. Crashlytics data is sent securely to Google&apos;s servers. We follow industry-standard practices to protect our app, but no system is completely secure.
             </p>
           </div>
 
