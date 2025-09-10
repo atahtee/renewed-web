@@ -73,7 +73,7 @@ export default function PrivacyPolicy() {
               06. Contact Us
             </h2>
             <p>
-              Questions about your privacy? Contact us at{' '}
+              Questions about your privacy? Contact at{' '}
               <a href="mailto:support@renewed.app" className="underline hover:no-underline">
                 atatisam14@gmail.com
               </a>
